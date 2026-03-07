@@ -1,6 +1,6 @@
 Repository for creating the presentation to CLIO-MUSE at 11/3/2026
 
-This is a continuation of the work done in https://github.com/ManolisPapa/Altair-Analytics.git and help from members from other teams.
+This is a continuation of the work done in https://github.com/ManolisPapa/Clio.git and help from members from other teams.
 
 Instructions to run the jupyter file:
 
