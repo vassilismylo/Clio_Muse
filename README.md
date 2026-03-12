@@ -14,3 +14,14 @@ Instructions to run the jupyter file:
 
 You will now have a events.parquet file inside the clean folder. 
 This will be read much quicker than a csv and cause less memory problems. 
+
+Pipeline of work:
+convert_to_parquet
+clean_transform
+user_id_analysis
+story_order_analysis
+events_analysis
+user_journeys_analysis
+behaviour_analysis
+user_clustering
+tour_analysis -- this was also used for creating the visualizations. 

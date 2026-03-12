@@ -1,4 +1,0 @@
-cluster,n_journeys,distinct_stories_touched,distinct_stories_completed,total_times_completed,max_story_completed_position,dropoff_position,total_stories,depth_ratio,max_depth,dropoff,total_transitions,sequential_transitions,sequential_ratio,completed_sequential_transitions,sequential_completed_ratio,distinct_sequential_transitions,distinct_completed_sequential_transitions,max_possible_transitions,sequential_touched,sequential_completed,interactivity_pct,pct_touched
-0,1.37,37.912,22.852,25.264,77.05,90.094,100.374,0.242,0.739,0.886,62.133,27.033,0.433,17.109,0.279,23.2,14.534,99.374,0.242,0.146,0.079,0.408
-1,1.203,60.609,49.344,54.784,74.682,77.943,80.939,0.627,0.92,0.961,92.235,50.123,0.577,41.45,0.485,43.18,35.523,79.939,0.556,0.459,0.068,0.761
-2,1.316,12.737,5.977,6.432,20.802,37.139,90.133,0.069,0.212,0.391,19.222,7.792,0.365,3.987,0.179,6.861,3.492,89.133,0.08,0.04,0.096,0.148
